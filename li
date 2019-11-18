@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Combate
+http://assistaiptvplay.com/live/erick/erick/53935.m3u8
+#EXTINF:-1,Cinemax
+http://assistaiptvplay.com/live/erick/erick/43281.m3u8
+#EXTINF:-1,A Fazzenda
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_8121c96ac249a7f42de83a183527d2e0e3039e8e/playlist.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_ded9209725089ff1e8e446e79e758adcd5fe2592/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_89be4d4f4a85d21017ecc759d15f29b20d85f213/playlist.m3u8
